@@ -446,7 +446,7 @@ export default function BlinkTacToe() {
                             onChange={() => setGodModeEnabled(!godModeEnabled)}
                             style={styles.checkboxInput}
                         />
-                        <label>
+                        <label> 
                             ENABLE **GOD MODE** (⏱️ 5S PER TURN)
                         </label>
                     </div>
@@ -454,7 +454,7 @@ export default function BlinkTacToe() {
                         {[1, 2].map((player) => (
                             <CategorySelector
                                 key={player}
-                                player={player}
+                                player={player}   
                                 selectedCategory={playerCategories[player]}
                                 onSelect={handleCategorySelect}
                                 playerColor={player === 1 ? styles.player1Turn.color : styles.player2Turn.color}
