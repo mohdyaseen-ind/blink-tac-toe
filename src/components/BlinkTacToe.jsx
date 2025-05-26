@@ -546,6 +546,6 @@ export default function BlinkTacToe() {
                     )}
                 </div>
             )}
-        </div>
+        </div>  
     );
 }
