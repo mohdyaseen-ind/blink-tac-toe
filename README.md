@@ -29,3 +29,5 @@ Sound Effects Variety: Add different sound effects for various actions, not just
 Responsive Design Refinement: While the current design is responsive, further fine-tuning for specific mobile devices and tablet orientations could enhance usability.
 Game Settings & Customization: Allow players to customize board size, MaxEmojis limit, or even create custom emoji categories.
 Undo/Redo Feature: A simple undo button for casual play, though this might complicate the power-up logic.
+
+Live Deployed link:- https://blink-tac-toe1.netlify.app/
