@@ -14,11 +14,6 @@ The game has a dynamic "vanishing" feature. Each player can only have 3 emojis o
 Mechanism:
 The game tracks each player's emojis. When a player places their 4th emoji, the oldest emoji they placed automatically disappears from the board to make room. This "First-In, First-Out" (FIFO) system keeps the board constantly changing and requires adaptive strategy.
 
-
-Okay, excellent additions for the "Potential Improvements" section! Both "add your own emojis" and "more animations" are great ways to enhance the game.
-
-Here's the updated "Potential Improvements with More Time" section for your README.md:
-
 Potential Improvements with More Time
 If I had more time, I'd love to enhance Blink Tac Toe with these features:
 
